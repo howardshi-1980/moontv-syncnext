@@ -1,0 +1,5 @@
+{
+  "title": "MoonTV VOD",
+  "type": "vod",
+  "url": "http://192.168.199.6:11100/api/vod.json"
+}
